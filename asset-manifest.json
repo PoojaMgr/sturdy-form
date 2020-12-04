@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sturdy-form/static/css/main.db76fd4c.chunk.css",
+    "main.js": "/sturdy-form/static/js/main.46fe525d.chunk.js",
+    "main.js.map": "/sturdy-form/static/js/main.46fe525d.chunk.js.map",
+    "runtime-main.js": "/sturdy-form/static/js/runtime-main.7050f7cf.js",
+    "runtime-main.js.map": "/sturdy-form/static/js/runtime-main.7050f7cf.js.map",
+    "static/js/2.7f6198f6.chunk.js": "/sturdy-form/static/js/2.7f6198f6.chunk.js",
+    "static/js/2.7f6198f6.chunk.js.map": "/sturdy-form/static/js/2.7f6198f6.chunk.js.map",
+    "static/js/3.82c8e11f.chunk.js": "/sturdy-form/static/js/3.82c8e11f.chunk.js",
+    "static/js/3.82c8e11f.chunk.js.map": "/sturdy-form/static/js/3.82c8e11f.chunk.js.map",
+    "index.html": "/sturdy-form/index.html",
+    "static/css/main.db76fd4c.chunk.css.map": "/sturdy-form/static/css/main.db76fd4c.chunk.css.map",
+    "static/js/2.7f6198f6.chunk.js.LICENSE.txt": "/sturdy-form/static/js/2.7f6198f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7050f7cf.js",
+    "static/js/2.7f6198f6.chunk.js",
+    "static/css/main.db76fd4c.chunk.css",
+    "static/js/main.46fe525d.chunk.js"
+  ]
+}
